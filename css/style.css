@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(img/p4.jpg);
+    background: url(../img/p4.jpg);
     background-size: cover;
     height: 100vh;
 }
